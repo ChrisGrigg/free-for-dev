@@ -1119,6 +1119,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Comet Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications across your dev and production lifecycles.
   * [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. Free forever plan includes 50k observations per month and all platform features. [#opensource](https://github.com/langfuse/langfuse)
   * [Pollinations.AI](https://pollinations.ai/) - easy-to-use, free image generation AI with free API available. No signups or API keys required, and several option for integrating into a website or workflow. [#opensource](https://github.com/pollinations/pollinations)
+  * [Cleanest.AI](https://cleanest.ai/) - create and organize into folders and easily search through history in ChatGPT. Coming soon; Claude and Gemini. Free to add up to 4 folders and get 3 search results.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
